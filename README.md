@@ -327,3 +327,4 @@ from that new location.
 Want to hack on Appium Desktop? Awesome! Head on over to our [Contributing
 Doc](CONTRIBUTING.md) for information on how to get a dev environment set up
 and submit changes back to the project.
+mcc
